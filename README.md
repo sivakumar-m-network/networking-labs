@@ -2,6 +2,10 @@
 
 This repository contains my hands-on networking and Linux labs completed as part of my CCNA and Linux Fundamentals training.
 
+## About
+
+Entry-level networking professional with hands-on experience in Cisco networking labs, routing, switching, VLANs, OSPF, NAT, and Linux fundamentals. This repository showcases practical labs and configurations developed using Cisco Packet Tracer.
+
 ## Projects
 
 ### 1. Inter-VLAN Routing – Router-on-a-Stick
