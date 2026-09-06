@@ -26,6 +26,19 @@ Entry-level networking professional with hands-on experience in Cisco networking
 ### 4. Linux User & Permission Management
 
 - Created users and groups and configured file permissions.
+  
+ ## Technical Skills
+
+- TCP/IP & OSI Models
+- IPv4 Addressing & Subnetting
+- VLANs & Trunking
+- Inter-VLAN Routing
+- Static Routing
+- OSPF Routing
+- NAT & PAT
+- DHCP & DNS
+- Cisco IOS CLI
+- Linux Fundamentals
 
 ## Technologies Used
 
