@@ -19,22 +19,26 @@ Entry-level networking professional with hands-on experience in Cisco networking
 
 ### 1. Inter-VLAN Routing – Router-on-a-Stick
 
-- Configured VLANs and router sub-interfaces to enable communication between different VLAN networks.
--  [View Packet Tracer Lab](./Inter-VLAN-Routing.pkt)
-
+- Configured VLANs, trunking, and router sub-interfaces to enable communication between multiple VLAN networks.
+- Verified inter-VLAN connectivity using Cisco IOS commands.
+- [View Packet Tracer Lab](./Inter-VLAN-Routing.pkt)
+  
 ### 2. Multi-Area OSPF Routing
 
-- Implemented Multi-Area OSPF routing for dynamic routing and efficient path selection across multiple network areas.
--  [View Packet Tracer Lab](./Multi-Area-OSPF.pkt)
-
+- Implemented Multi-Area OSPF to enable dynamic routing and efficient path selection between multiple network areas.
+- Verified OSPF neighbor relationships and routing tables using Cisco IOS commands.
+- [View Packet Tracer Lab](./Multi-Area-OSPF.pkt)
+  
 ### 3. Network Address Translation (NAT)
 
-- Configured Static NAT and PAT (NAT Overload) for IP address translation and internet connectivity.
--  [View Packet Tracer Lab](./NAT-Configuration.pkt)
+- Configured Static NAT and PAT (NAT Overload) for IP address translation and network connectivity.
+- Verified NAT translations and connectivity using Cisco IOS commands.
+- [View Packet Tracer Lab](./NAT-Configuration.pkt)
 
 ### 4. Linux User & Permission Management
 
-- Created users and groups and configured file permissions.
+- Created and managed Linux users and groups with appropriate file and directory permissions.
+- Practiced user administration and permission management using Linux CLI commands.
   
 ## Technical Skills
 
@@ -64,3 +68,9 @@ Entry-level networking professional with hands-on experience in Cisco networking
 3. Review the network topology and device configurations.
 4. Verify connectivity using appropriate Cisco IOS commands.
 
+## Lab Status
+
+- Inter-VLAN Routing — Completed
+- Multi-Area OSPF — Completed
+- NAT & PAT — Completed
+- Linux User & Permission Management — Completed
