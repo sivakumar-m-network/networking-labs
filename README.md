@@ -56,3 +56,11 @@ Entry-level networking professional with hands-on experience in Cisco networking
 - Cisco Switches
 - Cisco IOS CLI
 - Linux
+  
+## How to Use
+
+1. Download the required `.pkt` file from this repository.
+2. Open the file using Cisco Packet Tracer.
+3. Review the network topology and device configurations.
+4. Verify connectivity using appropriate Cisco IOS commands.
+
