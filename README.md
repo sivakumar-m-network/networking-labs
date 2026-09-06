@@ -6,6 +6,15 @@ This repository contains my hands-on networking and Linux labs completed as part
 
 Entry-level networking professional with hands-on experience in Cisco networking labs, routing, switching, VLANs, OSPF, NAT, and Linux fundamentals. This repository showcases practical labs and configurations developed using Cisco Packet Tracer.
 
+## Lab Focus
+
+- Network segmentation using VLANs
+- Inter-VLAN communication using Router-on-a-Stick
+- Dynamic routing using OSPF
+- IP address translation using NAT and PAT
+- Linux user, group, and file permission management
+- Network troubleshooting and configuration using Cisco IOS CLI
+
 ## Projects
 
 ### 1. Inter-VLAN Routing – Router-on-a-Stick
@@ -27,7 +36,7 @@ Entry-level networking professional with hands-on experience in Cisco networking
 
 - Created users and groups and configured file permissions.
   
- ## Technical Skills
+## Technical Skills
 
 - TCP/IP & OSI Models
 - IPv4 Addressing & Subnetting
