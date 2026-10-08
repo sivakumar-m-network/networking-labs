@@ -34,8 +34,15 @@ Entry-level networking professional with hands-on experience in Cisco networking
 - Configured Static NAT and PAT (NAT Overload) for IP address translation and network connectivity.
 - Verified NAT translations and connectivity using Cisco IOS commands.
 - [View Packet Tracer Lab](./NAT-Configuration.pkt)
+  
+### 4. Wireless LAN Controller (WLC)
 
-### 4. Linux User & Permission Management
+- Configured a basic Wireless LAN Controller (WLC) setup using Cisco Packet Tracer.
+- Practiced wireless network configuration, WLAN settings, and client connectivity.
+- Verified connectivity between wireless clients and the network.
+- [View Packet Tracer Lab](https://github.com/sivakumar-m-network/networking-labs/blob/main/WLC-Basic-Configuration.pkt)
+  
+### 5. Linux User & Permission Management
 
 - Created and managed Linux users and groups with appropriate file and directory permissions.
 - Practiced user administration and permission management using Linux CLI commands.
@@ -73,4 +80,5 @@ Entry-level networking professional with hands-on experience in Cisco networking
 - Inter-VLAN Routing — Completed
 - Multi-Area OSPF — Completed
 - NAT & PAT — Completed
+- Wireless LAN Controller (WLC)
 - Linux User & Permission Management — Completed
