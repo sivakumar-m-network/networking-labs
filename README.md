@@ -12,6 +12,7 @@ Entry-level networking professional with hands-on experience in Cisco networking
 - Inter-VLAN communication using Router-on-a-Stick
 - Dynamic routing using OSPF
 - IP address translation using NAT and PAT
+-  Wireless LAN Controller (WLC)
 - Linux user, group, and file permission management
 - Network troubleshooting and configuration using Cisco IOS CLI
 
